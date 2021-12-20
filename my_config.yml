@@ -11,4 +11,6 @@ twitter_username: NA
 github_username:  KarthikeyanM-eaton
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme to theme: minima
+
 
